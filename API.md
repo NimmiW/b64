@@ -1,5 +1,5 @@
 ## API
 
-### encoder APIS
+### encoder APIs
 
-### decoder APIS
+### decoder APIs
